@@ -1,0 +1,201 @@
+customer_id,name,email,city,state,loyalty_tier,join_date
+C100,Elizabeth Smith,transhelly@luna.info,Anthonymouth,CA,Silver,2025-07-08
+C101,Michael Green,fergusondevin@jackson-brennan.com,New Tina,RI,Gold,2024-03-30
+C102,Deborah Barr,lcarpenter@hotmail.com,Johnsonberg,NJ,Bronze,2026-04-10
+C103,Natasha Hines,rhonda20@hotmail.com,Robertview,CT,Bronze,2024-08-01
+C104,Aimee Soto,natashaholland@hotmail.com,Conradland,WY,Bronze,2023-08-15
+C105,Garrett Johnson,uscott@yahoo.com,Freyshire,AZ,Silver,2023-05-19
+C106,Ms. Michelle Sherman,julia72@yahoo.com,Shelleytown,WY,Gold,2025-06-20
+C107,Robin Meyers,icurtis@peterson-pierce.biz,West Amyland,MA,Gold,2025-05-15
+C108,David Fuller,ncastro@jones.biz,Samuelmouth,IA,Silver,2023-10-27
+C109,Stephanie Alvarez,jennifer07@gmail.com,West Gregoryhaven,NV,Silver,2023-11-23
+C110,Claudia Brandt,kelly20@wilson-turner.com,Christinamouth,AR,Bronze,2023-06-01
+C111,Stephanie Riley,rodneyhudson@yahoo.com,Justinborough,NE,Gold,2026-02-17
+C112,Nathaniel Cannon,lisawalter@aguilar-carr.info,Rickyside,MD,Gold,2023-09-24
+C113,John Dawson,zmalone@lambert.info,Riceborough,FL,Bronze,2024-01-03
+C114,Amy Johnson,william36@hotmail.com,Harrisborough,AL,Bronze,2025-08-25
+C115,Bryan Riley,jennifer59@simmons.com,New Stephanieton,WI,Bronze,2025-06-13
+C116,Monica Allen,jenkinsstacy@hotmail.com,South Sarah,NJ,Silver,2024-09-12
+C117,Kendra Anderson,ffloyd@hotmail.com,Mejiaborough,MD,Bronze,2023-11-26
+C118,Rebecca Freeman,rwalker@hotmail.com,Terryberg,ND,Gold,2025-08-13
+C119,Caleb Robinson,ryanmichele@levine-young.net,New Jasonshire,IL,Bronze,2024-03-09
+C120,Kathy King,phodge@yahoo.com,North Vanessa,OR,Silver,2024-03-21
+C121,Cassandra Williams,xbarker@reyes-wall.com,West Eugene,WI,Silver,2025-01-25
+C122,Donald Harris,gomezjennifer@smith.com,Vincentview,ND,Silver,2024-08-22
+C123,Stacy Dunn,robertwyatt@gmail.com,Foxside,SC,Gold,2024-12-08
+C124,Katherine Luna,stephaniegonzalez@fletcher-mcdaniel.com,Pamelaton,HI,Gold,2026-04-19
+C125,April Wallace,arnolddavid@lewis-martin.net,New Emily,WV,Gold,2023-08-13
+C126,Stephanie Rodriguez,julie34@estes.com,Blevinschester,KY,Gold,2023-10-07
+C127,Robert Ferguson,grogers@jackson-white.info,Perrybury,SD,Gold,2025-02-18
+C128,Jonathon Russell,shannonchambers@white.biz,South Erin,OK,Bronze,2024-05-22
+C129,Bobby Fernandez,mcdonaldkeith@adams.com,Shaunmouth,OK,Silver,2023-09-07
+C130,Kelly Cameron,amberknight@yahoo.com,Tiffanymouth,UT,Silver,2024-04-03
+C131,Stacy Buchanan,ihill@johns.com,Lake Tiffany,DE,Gold,2026-01-07
+C132,Emma Gillespie,taylor70@hotmail.com,Parkerfurt,UT,Bronze,2024-08-29
+C133,Ross Taylor,nsilva@harris.com,South Nathanfurt,NC,Bronze,2025-06-27
+C134,Michelle Haas,williamscourtney@hotmail.com,Port Robin,WY,Gold,2024-01-12
+C135,Samantha Baldwin,alvin45@pugh-thomas.info,East Kathleen,KS,Bronze,2024-10-22
+C136,Jennifer Reyes,wilsonloretta@marquez.com,Diazville,MO,Bronze,2025-11-12
+C137,Melissa Conrad,danielbrown@gmail.com,South Mariabury,AL,Silver,2024-05-31
+C138,Kaitlyn Wong,bradleyramirez@yahoo.com,South Feliciaside,NM,Bronze,2023-06-14
+C139,David Day,andrew12@baker-cantrell.org,West Staceyside,KS,Gold,2024-12-18
+C140,Sergio Espinoza,moorehunter@jones.org,Smithville,OH,Silver,2025-05-06
+C141,Marcus Campbell,bryantmark@kelley.info,Traciebury,SC,Bronze,2024-09-13
+C142,Jacob Morrison,youngrachel@hotmail.com,West Alan,TX,Silver,2025-06-08
+C143,Michael Clark,theresa31@jimenez.org,Simpsonborough,NC,Silver,2023-05-08
+C144,Brandon Baker,ojones@yahoo.com,Debraburgh,TN,Gold,2025-08-17
+C145,David Booth,hailey15@hotmail.com,South Christina,NE,Gold,2025-07-11
+C146,Ryan Roberts,friedmantiffany@hotmail.com,West Alexanderbury,TX,Bronze,2025-06-10
+C147,James Callahan,mary39@gmail.com,Schultzmouth,ID,Bronze,2025-03-25
+C148,Dr. Denise Smith,tammy51@lynch.com,Myersmouth,HI,Bronze,2024-09-29
+C149,Michael Cunningham,christophereverett@yahoo.com,Lake Nathan,MI,Silver,2024-09-29
+C150,Morgan Castillo,luis33@yahoo.com,Marcmouth,OK,Bronze,2023-11-09
+C151,Judith Allen,xthomas@hotmail.com,Bradleyshire,PA,Bronze,2025-10-14
+C152,Patrick Cruz,pollardchristopher@holden.com,North Donaldtown,OH,Gold,2024-12-29
+C153,Heather Anderson,fspence@yahoo.com,Wongmouth,MO,Silver,2025-09-08
+C154,Michael Reyes,stevenroberts@gmail.com,North Charles,WV,Silver,2023-08-20
+C155,John Porter,harringtondavid@stevens-parsons.com,South Randymouth,MI,Silver,2025-09-10
+C156,Robin Long,allisonhuang@scott.com,Grahammouth,VT,Bronze,2025-01-01
+C157,Michael Edwards,ataylor@leonard.com,Allenfurt,FL,Silver,2025-08-19
+C158,Joseph Duncan,xmiller@gmail.com,South Davidborough,NH,Gold,2025-08-03
+C159,Zachary Arnold,idrake@gmail.com,Nathanview,LA,Gold,2024-04-19
+C160,Perry Williams,elizabeth28@hotmail.com,Bookerborough,HI,Gold,2024-12-23
+C161,Megan Jackson,brittany36@gmail.com,Lynnview,AL,Gold,2023-08-03
+C162,Cheryl Johnson,robert10@rodriguez.com,Lake Michael,PA,Silver,2023-12-19
+C163,Amber Schultz,loripaul@case.com,Lake Steven,NC,Gold,2023-09-05
+C164,Joseph Knapp,jyoder@yahoo.com,Coryborough,HI,Gold,2024-05-04
+C165,Kimberly Long,tammy22@gmail.com,New Daniellebury,NY,Gold,2025-02-19
+C166,Amber Brown,joyceespinoza@harris-pena.com,New Joannaburgh,NC,Silver,2025-07-22
+C167,Mindy Hudson,carriejohnston@yahoo.com,Lake Erinmouth,LA,Silver,2024-05-26
+C168,Jennifer Scott,katherine24@pope-weber.biz,New Christinaberg,WV,Gold,2025-08-03
+C169,Justin Reid,mvilla@hotmail.com,Jerryside,HI,Bronze,2024-05-31
+C170,Debbie Fleming,qbrady@harris.info,Lake Denise,KS,Bronze,2024-11-13
+C171,Lisa Robbins,ajohnson@tate.info,West Denisemouth,DC,Silver,2024-03-16
+C172,Raven Dean,ericsmith@hotmail.com,North Marymouth,GA,Bronze,2023-05-31
+C173,Danielle Fernandez,zglover@curry-morrow.info,Port Michaelport,IN,Gold,2024-07-22
+C174,Allen Zimmerman,fdavis@phillips-garrett.com,Millerhaven,MI,Silver,2025-07-27
+C175,Sarah Smith,scott73@golden-hammond.com,Alyssamouth,TX,Silver,2024-03-04
+C176,Melissa Turner,jerry06@anderson.info,South Tina,NH,Silver,2023-12-01
+C177,Carolyn Sherman,carrillorobert@hotmail.com,West Sarahshire,MI,Bronze,2024-04-30
+C178,Jimmy Watts,lisa25@little.com,East Andrew,MT,Bronze,2024-12-05
+C179,Rebecca Pena,nelsontyler@gaines.com,West Juliefort,WY,Gold,2026-04-30
+C180,Julie Ortiz,heather47@hotmail.com,Smithville,GA,Bronze,2025-07-22
+C181,Jamie Henderson,shenderson@hotmail.com,Lake Jennifermouth,IL,Gold,2025-01-20
+C182,Kathryn Sheppard,brian19@nicholson.com,West Joshuaton,RI,Silver,2025-01-10
+C183,William Strong,jessica26@hotmail.com,East Patrickside,TX,Silver,2023-11-24
+C184,Joe Grant,justin94@hotmail.com,Kathleentown,MS,Gold,2026-03-21
+C185,Frank Wells,chandlerjames@gmail.com,New Jennifer,NM,Silver,2023-12-06
+C186,Mrs. Angela Johnson,rebecca89@yahoo.com,Lake James,OR,Bronze,2026-03-07
+C187,Mrs. Christine Ryan,chavezmelissa@thompson.com,Christophermouth,HI,Silver,2023-08-26
+C188,Cody Hill,iblack@boyd.com,Lake Whitneyport,DE,Bronze,2024-01-09
+C189,Deanna Lee,susan95@hotmail.com,East James,KY,Silver,2026-04-25
+C190,Mrs. Brittany Mcmillan MD,igardner@hotmail.com,North Juan,DC,Gold,2024-07-27
+C191,Donna Hanson,mcdonaldjuan@montes.com,North Brittanyshire,NJ,Silver,2026-04-03
+C192,Kevin Williams,jennifer62@perez.org,Evansville,SC,Silver,2023-10-07
+C193,Roger Jones,tcrane@poole.com,Jessestad,CO,Bronze,2024-04-03
+C194,Stacy Miller,jennifermartin@wang-wolf.com,North Jeremiahport,UT,Gold,2024-12-17
+C195,Trevor Davis MD,mckinneyhaley@yahoo.com,Garciaport,OH,Silver,2024-08-29
+C196,Tyler Farrell,dustin56@yahoo.com,Duranport,SC,Gold,2024-03-17
+C197,Joshua Calhoun,gary78@yahoo.com,Henryfurt,SD,Gold,2023-10-28
+C198,Zachary Becker,cwheeler@yahoo.com,North Heathertown,AR,Silver,2023-05-21
+C199,James Holloway,wcooper@gmail.com,Evanschester,KY,Silver,2026-03-23
+C200,Jennifer Moore,derrickmurphy@mckinney.info,Santosview,WV,Silver,2025-05-06
+C201,Sarah Reid,scott27@yahoo.com,Adamsstad,MO,Gold,2025-11-18
+C202,Mark Brown,kristina34@terry.com,Woodville,MT,Bronze,2025-02-08
+C203,Sherry Yang,pottsmatthew@gmail.com,Brendachester,MT,Silver,2024-01-07
+C204,Dr. Jennifer Haynes,ryanhannah@jones.net,New Tanyaton,KS,Silver,2023-11-28
+C205,Brenda Brock,cory09@gmail.com,Mckenziemouth,RI,Silver,2025-05-12
+C206,Spencer Smith,susan06@hotmail.com,Rayfurt,NJ,Silver,2025-03-20
+C207,Joseph Rhodes,sara99@chapman.net,Robinsonburgh,MI,Bronze,2025-09-03
+C208,Vanessa Nash,hillanthony@yahoo.com,Lake Timothyshire,NY,Silver,2025-03-13
+C209,Glenn White,johnsonchristopher@gmail.com,Sandraville,PA,Silver,2025-04-11
+C210,Zachary Carter,jacqueline72@yahoo.com,North Christopher,AK,Silver,2023-12-09
+C211,Carl Hartman,freemancynthia@gmail.com,East Nathan,AR,Silver,2025-11-30
+C212,Amanda Bell,zmcdonald@cisneros-davis.biz,Martinezview,NC,Gold,2025-03-10
+C213,Angela Grant,jennifer66@ross.net,Teresaville,OR,Bronze,2024-07-22
+C214,Jeffrey Brown,haynesjustin@yahoo.com,Galvanview,ND,Bronze,2026-04-21
+C215,Tammy Oconnor,carrjulie@hotmail.com,South Eric,TN,Bronze,2025-01-09
+C216,Joshua Cole,elizabethbutler@gmail.com,Jasmineborough,NH,Gold,2024-06-16
+C217,Scott Rodriguez,kimberly63@hotmail.com,Harrellbury,NJ,Silver,2024-04-27
+C218,Brian Rojas,rosepaul@gmail.com,Riceborough,AZ,Gold,2025-01-23
+C219,Alexandria Ramsey,bobbydean@fernandez-edwards.com,Shelleyville,HI,Silver,2023-06-07
+C220,Alisha Brown,wfinley@pierce.com,Butlerville,LA,Silver,2024-01-24
+C221,Cathy Higgins,chelseajordan@yahoo.com,Coleland,FL,Gold,2025-09-11
+C222,Patrick Pierce,zdelgado@gmail.com,Stephanieland,NM,Bronze,2025-05-19
+C223,Jason Caldwell,frazierclifford@hotmail.com,East Vanessa,MA,Bronze,2024-11-25
+C224,Sharon Taylor,williamsjamie@gmail.com,Port Nicolemouth,WA,Silver,2025-11-29
+C225,Maria Lester,stewartdanielle@nash-brown.com,Charlesfurt,OK,Bronze,2023-10-30
+C226,Tiffany Moore,catherineenglish@lee.com,East Wayneborough,TN,Silver,2023-08-05
+C227,Bruce Harrison,yclarke@yahoo.com,Bethanyshire,FL,Silver,2025-01-21
+C228,Justin Walker,ghoward@yahoo.com,Lake Rebeccaton,IN,Silver,2025-05-04
+C229,Kaitlyn Brown,john87@ramos.com,Port Stevenfort,VT,Silver,2023-07-14
+C230,Bethany Cummings,nzimmerman@wilcox.biz,East Andreaview,MO,Gold,2024-09-12
+C231,Mrs. Valerie Crawford MD,woodskathryn@yahoo.com,North Cristianport,ND,Silver,2024-07-09
+C232,Aaron Johnston,amoore@hotmail.com,South Joshua,CA,Gold,2025-02-13
+C233,Tiffany Heath,karenespinoza@hotmail.com,Crystalville,DC,Silver,2025-01-16
+C234,Rebecca Allen,qsheppard@cohen.com,Ryanton,MT,Silver,2023-08-03
+C235,Deborah Cruz,mark60@freeman-baxter.com,Lake Teresa,ME,Gold,2025-06-25
+C236,Kayla Smith,harrisdaniel@gmail.com,New Andrew,AZ,Silver,2023-08-24
+C237,William Peterson,debbiesullivan@hotmail.com,Bettyberg,OK,Gold,2024-10-11
+C238,Christine Carrillo,taylorholloway@hotmail.com,Ballardmouth,SD,Gold,2024-12-26
+C239,Nicholas Johnson,sheilagibson@zuniga-clark.org,Danielshire,OH,Bronze,2025-02-10
+C240,Kristina Rice,brownjeffrey@hotmail.com,Melissaland,OK,Gold,2024-02-25
+C241,Steven Smith,james43@taylor-mitchell.biz,Chelseatown,VT,Bronze,2025-05-13
+C242,Briana Anderson,kimberlydavis@cooley.org,Calvintown,MD,Gold,2023-07-12
+C243,Lucas Stevens,janemartin@peterson.com,Sethbury,NJ,Silver,2024-11-22
+C244,Randy Mason,sharonbrown@mitchell.com,Kimberlyside,AL,Bronze,2024-06-29
+C245,Stanley Holland,sandersscott@ortiz-king.com,West Erica,IA,Silver,2025-01-21
+C246,Gregory Wells,aburns@yahoo.com,Raystad,MT,Silver,2024-10-10
+C247,Amanda Sanchez,vanessa63@garcia.org,New Patricia,HI,Bronze,2025-09-21
+C248,Michele Oneal,mwright@gmail.com,Dustinview,MS,Silver,2026-01-24
+C249,Paul Clark,nchambers@johnson.com,Gonzaleztown,OR,Silver,2024-03-18
+C250,Meredith Johnson,cruzsusan@gmail.com,Donnafurt,LA,Gold,2026-01-05
+C251,Laura Hart,wwilliams@yahoo.com,East Julie,WY,Gold,2026-02-15
+C252,Lisa Love,qmccarthy@arroyo-lee.com,Diazmouth,NC,Silver,2024-04-18
+C253,Ruben Fuentes,douglasbarbara@dennis-mcclure.com,Port Tammyville,FL,Bronze,2025-06-04
+C254,Mark Johnson,paula07@gmail.com,Fordfort,OH,Gold,2026-04-29
+C255,Jessica Carpenter,wbuckley@foster.com,Murphystad,NC,Silver,2024-03-20
+C256,Tara Anderson,robertsonalbert@yahoo.com,Jacobstad,TN,Gold,2025-04-20
+C257,Dana Thomas,jamesmartinez@jones-mills.com,West Patricia,OH,Bronze,2023-12-07
+C258,Sharon Robertson,zanderson@ruiz.biz,Ochoaton,WV,Gold,2023-05-18
+C259,Jacqueline Gallagher,jessemontgomery@hotmail.com,Thorntonmouth,IL,Gold,2024-01-01
+C260,Shawn White,johnharris@johnston-saunders.com,Wallaceberg,NJ,Silver,2024-05-08
+C261,Christopher Daniels,william68@lamb.com,Lake Gregory,GA,Bronze,2024-09-12
+C262,David Lopez,dylan99@anderson.org,East Isaacberg,CO,Bronze,2024-01-31
+C263,Anthony Cameron,martin43@hotmail.com,Reeseland,MN,Gold,2024-01-14
+C264,Javier Evans,yavila@gmail.com,Jessicaport,PA,Bronze,2023-10-20
+C265,Joanna Brown,cjackson@mcdonald-mccoy.biz,East Lisamouth,SD,Gold,2023-12-06
+C266,Christian White,crawfordwilliam@robinson.net,Lake Joseborough,SD,Silver,2023-12-20
+C267,Jennifer Allen,katie78@gmail.com,West Thomas,IA,Bronze,2024-05-20
+C268,Mary Goodwin,jennifer69@gmail.com,Michelleport,ID,Silver,2024-09-10
+C269,Willie Chase,mcdanielemily@yahoo.com,Markshire,HI,Silver,2024-03-04
+C270,Richard Lane,tina45@hotmail.com,South Michelle,CO,Bronze,2024-10-07
+C271,Billy Ward,khenson@davis-roberson.com,Derektown,NJ,Gold,2024-06-03
+C272,Steven Ramirez,timothyjones@gmail.com,Wilsonborough,UT,Bronze,2024-09-08
+C273,Jacqueline Lynch,paulastewart@rogers-pugh.com,Port Angelatown,AK,Bronze,2024-08-29
+C274,Alison Perry,lindseywilson@yahoo.com,Woodsmouth,MD,Gold,2025-05-22
+C275,Kelly Sawyer,debraprice@gmail.com,West Jason,CO,Bronze,2024-11-02
+C276,Amy Vasquez,caitlinstone@swanson.com,Lake Stacey,CT,Silver,2025-07-06
+C277,Jean Rivas,kevinmolina@garrett.com,Torresmouth,SD,Bronze,2023-10-14
+C278,Cheyenne Trevino,gary37@howard-garcia.com,Barbarastad,VA,Gold,2025-04-12
+C279,Justin Hebert,ryanhiggins@gmail.com,Johntown,DE,Bronze,2026-03-01
+C280,Steven Payne,greenjoshua@perry.net,Brownbury,GA,Silver,2025-07-20
+C281,Christopher Finley,willie32@hotmail.com,South Brenda,ND,Gold,2023-12-19
+C282,Lynn Combs,terryjohn@roberts.com,Cliffordfurt,PA,Bronze,2025-11-29
+C283,Angela Hess,mschwartz@yahoo.com,Hernandezborough,NC,Bronze,2024-02-28
+C284,Tracy Terry,jonathan88@mcintosh-ramos.com,Justinport,TX,Gold,2024-03-12
+C285,Krista Bowman,joe33@gmail.com,New Courtneyfort,NV,Bronze,2024-01-20
+C286,Victoria Payne,mariagarza@wilson-oneill.biz,Reyesside,KS,Bronze,2025-04-13
+C287,Rebecca Yang,heather52@gmail.com,Staceyburgh,OR,Silver,2023-08-19
+C288,Dominic Todd,qedwards@hotmail.com,Hendersonville,OH,Gold,2024-03-01
+C289,Kirsten Bennett,stacynelson@yahoo.com,Turnerview,ID,Gold,2026-04-24
+C290,Chase Lewis,irice@yahoo.com,Lake Troyfurt,OH,Silver,2025-01-21
+C291,Ashley Bell,gturner@sanders.com,Port Sabrinaville,ME,Bronze,2024-10-22
+C292,Mikayla Waters,jessicavelasquez@harris-johnson.biz,Travismouth,IA,Gold,2025-04-05
+C293,Thomas Harrington,courtney51@rollins.com,Watsonberg,AL,Bronze,2025-01-31
+C294,Brooke Rodgers,johnpowell@gmail.com,Leslieburgh,AZ,Gold,2023-09-27
+C295,Courtney Luna,jaime74@yahoo.com,Lake Thomas,IA,Silver,2024-12-24
+C296,John Valdez,raymark@johnston.org,Karenbury,IN,Bronze,2025-09-03
+C297,Lisa Bowman,lindavilla@yahoo.com,North Williamland,WY,Gold,2025-10-08
+C298,Nancy Perry,tnguyen@hotmail.com,East Brittney,OH,Bronze,2026-05-05
+C299,Adrian Long,simpsonmaureen@livingston.com,Berrytown,IL,Silver,2025-06-30
